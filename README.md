@@ -1,1 +1,1 @@
-# Introduction-to-Splunk-Certificate-
+# Splunk-Certificates
